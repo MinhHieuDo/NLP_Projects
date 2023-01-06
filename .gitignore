@@ -1,0 +1,12 @@
+data
+results
+fit
+
+# Ignore caches
+*__pycache__*
+*.vscode
+*.idea
+*.ipynb_checkpoints
+# Ignore virtual environment
+venv
+# pbs
